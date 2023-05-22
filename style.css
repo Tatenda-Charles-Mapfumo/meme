@@ -1,0 +1,12 @@
+div{
+    border: 10px solid white;
+    width: fit-content;
+    margin-left: 20%;
+    margin-top: 8%;
+}
+
+h1, h6{
+    font-family: Libre Franklin;
+    text-align: center;
+    color: white;
+}
